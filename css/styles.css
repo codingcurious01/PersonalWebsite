@@ -29,7 +29,7 @@ h3{
 p{
     color: black;
     font-size: 1.5rem;
-    font-weight: 600;
+    /* font-weight: 600; */
 }
 
 #nav-intro{
@@ -67,11 +67,11 @@ p{
 
 /* Profile image */
 .profile-img{
-    width: 50%;
+    width: 63%;
     border-radius: 10%;
     position: absolute;
-    right: 25%;
-    top: 4%;
+    right: 18%;
+    top: 16%;
 }
 
 /* Title styles for screen width 1028px or less */
